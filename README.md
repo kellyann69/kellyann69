@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 To be continued 
+- 🌱 I’m currently learning how to code
 <!--
 **kellyann69/kellyann69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
